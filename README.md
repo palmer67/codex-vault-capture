@@ -25,6 +25,8 @@
 
 ## 效果
 
+![生成的笔记预览](assets/note-preview.png)
+
 输入 [`examples/input.json`](examples/input.json)：
 
 ```json
